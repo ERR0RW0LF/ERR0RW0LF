@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on an python algorithem for a website
+
+🌱 I’m currently learning python, raspberry pi and AI
 <!--
 **ERR0RW0LF/ERR0RW0LF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
