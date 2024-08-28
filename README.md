@@ -1,8 +1,24 @@
 ### Hi there 👋
 
-🔭 I’m currently working on an python algorithem for a website
+🔭 I’m currently working on nothing
+🌱 I’m currently learning hacking and C++
 
-🌱 I’m currently learning python, raspberry pi and AI
+#### My skills
+- Python
+- Raspberry Pi (4b, zero wh)
+- Linux
+
+#### Linux distros I use/used
+- kali linux (VM and OS on hardware)
+- ubuntu (as home- server/lab)
+- arch linux (on my school laptop)
+- windows 11 (main PC)
+- android (on my phones)
+- iPadOS (on my school iPad)
+
+
+
+
 <!--
 **ERR0RW0LF/ERR0RW0LF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
