@@ -3,12 +3,12 @@
 🔭 I’m currently working on nothing
 🌱 I’m currently learning hacking and C++
 
-#### My skills
+#### My skills:
 - Python
 - Raspberry Pi (4b, zero wh)
 - Linux
 
-#### Operating System I use/used
+#### Operating System I use/used:
 - kali linux (VM and OS on hardware)
 - ubuntu (as home- server/lab)
 - arch linux (on my school laptop)
